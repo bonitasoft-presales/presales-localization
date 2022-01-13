@@ -1,6 +1,3 @@
-"files": [
-  {
-    "source": "localization.json",                                       #source files filter
-    "translation": "localization_%locale%_crowdin.json"        #where translations are stored
-  }
-]
+files:
+  - source: localization.json
+    translation: localization_%locale%_crowdin.json
