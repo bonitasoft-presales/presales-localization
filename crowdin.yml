@@ -1,6 +1,4 @@
-"preserve_hierarchy": true
-
+preserve_hierarchy: true
 files:
   - source: localization.json
     translation: localization_%locale%_crowdin.json
-    
