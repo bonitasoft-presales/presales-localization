@@ -1,3 +1,8 @@
+"preserve_hierarchy": false
+
 files:
   - source: localization.json
     translation: localization_%locale%_crowdin.json
+    "translation_replace": {
+      "fr": "fr-FR"
+    }
