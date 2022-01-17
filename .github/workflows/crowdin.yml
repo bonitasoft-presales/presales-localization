@@ -30,3 +30,13 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
         CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+    - name: Find Pull Request
+      uses: juliangruber/find-pull-request-action@v1
+      id: find-pull-request
+      with:
+        branch: app-ticketing
+    - run: echo "Pull Request ${number} (${sha})"
+      env:
+        number: ${{ steps.find-pull-request.outputs.number }}
+        sha: ${{ steps.find-pull-request.outputs.head-sha }}
