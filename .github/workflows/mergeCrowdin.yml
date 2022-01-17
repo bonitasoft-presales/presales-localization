@@ -2,6 +2,7 @@ name: Merge Crowdin PR on new translations
 
 on:
   pull_request:
+    types: [opened, synchronize]
     branches:    
       - 'app-ticketing'
 
