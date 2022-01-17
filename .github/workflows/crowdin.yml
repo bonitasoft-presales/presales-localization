@@ -12,17 +12,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: crowdin action
+    - name: Crowdin sync
       uses: crowdin/github-action@1.4.6
       with:
         upload_sources: true
         upload_translations: true
         download_translations: true
-        localization_branch_name: l10n_app-ticketing
+        localization_branch_name: 'l10n_main'
         create_pull_request: true
         project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
         token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
@@ -34,9 +33,9 @@ jobs:
     - name: Find Pull Request
       uses: juliangruber/find-pull-request-action@v1.5.0
       id: find-pull-request
-
       with:
-        branch: 'app-ticketing'
+        branch: 'main'
+        base: 'l10n_main'
 
     - run: echo "Pull Request ${number} (${sha})"
       env:
