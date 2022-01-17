@@ -3,6 +3,7 @@ name: Crowdin Action
 on:
   push:
     branches: [ app-ticketing ]
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 
