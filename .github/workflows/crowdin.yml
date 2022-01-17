@@ -39,3 +39,11 @@ jobs:
       env:
         number: ${{ steps.find-pull-request.outputs.number }}
         sha: ${{ steps.find-pull-request.outputs.head-sha }}
+
+    - name: Merge Pull Request
+      if: ${{ steps.find-pull-request.outputs.number }}
+      uses: juliangruber/merge-pull-request-action@v1
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        number: ${{ steps.find-pull-request.outputs.number }}
+        method: squash
