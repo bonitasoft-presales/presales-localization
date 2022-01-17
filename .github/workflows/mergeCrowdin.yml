@@ -5,6 +5,7 @@ on:
     types: [opened, synchronize]
     branches:    
       - 'app-ticketing'
+  workflow_dispatch:      
 
 jobs:
   merge-pull-request:
