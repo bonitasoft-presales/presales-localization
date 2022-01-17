@@ -336,5 +336,5 @@
     "taskDisplayName": "taskDisplayName",
     "under_normal": "under_normal",
     "yes": "oui",
-    "{{selectedMailType.mailType}} mail template:": "{{selectedMailType.mailType}} mail template:"
+    "{{selectedMailType.mailType}} mail template:": "Modèle de mail pour {{selectedMailType.mailType}}:"
 }
