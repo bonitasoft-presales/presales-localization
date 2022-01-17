@@ -1,0 +1,65 @@
+{
+    "$locale": {
+        "DATETIME_FORMATS": {
+            "AMPMS": [
+                "a. m.",
+                "p. m."
+            ],
+            "DAY": [
+                "domingo",
+                "lunes",
+                "martes",
+                "mi\u00e9rcoles",
+                "jueves",
+                "viernes",
+                "s\u00e1bado"
+            ],
+            "FIRSTDAYOFWEEK": 0,
+            "MONTH": [
+                "enero",
+                "febrero",
+                "marzo",
+                "abril",
+                "mayo",
+                "junio",
+                "julio",
+                "agosto",
+                "septiembre",
+                "octubre",
+                "noviembre",
+                "diciembre"
+            ],
+            "SHORTDAY": [
+                "dom.",
+                "lun.",
+                "mar.",
+                "mi\u00e9.",
+                "jue.",
+                "vie.",
+                "s\u00e1b."
+            ],
+            "SHORTMONTH": [
+                "ene.",
+                "feb.",
+                "mar.",
+                "abr.",
+                "may.",
+                "jun.",
+                "jul.",
+                "ago.",
+                "sept.",
+                "oct.",
+                "nov.",
+                "dic."
+            ],
+            "fullDate": "EEEE, d 'de' MMMM 'de' y",
+            "longDate": "d 'de' MMMM 'de' y",
+            "medium": "d 'de' MMM 'de' y H:mm:ss",
+            "mediumDate": "d 'de' MMM 'de' y",
+            "mediumTime": "H:mm:ss",
+            "short": "d/M/yy H:mm",
+            "shortDate": "d/M/yy",
+            "shortTime": "H:mm"
+        }
+    }
+}
