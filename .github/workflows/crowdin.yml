@@ -8,7 +8,7 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  synchronize-with-crowdin:
+  Synchronize-with-crowdin:
     runs-on: ubuntu-latest
 
     steps:
@@ -35,7 +35,7 @@ jobs:
       id: find-pull-request
       with:
         branch: 'main'
-        base: 'l10n_main'
+        author: 'support+bot@crowdin.com'
 
     - run: echo "Pull Request ${number} (${sha})"
       env:
