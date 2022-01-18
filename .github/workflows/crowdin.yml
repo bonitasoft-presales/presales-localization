@@ -35,7 +35,6 @@ jobs:
       id: find-pull-request
       with:
         branch: 'main'
-        author: 'github-actions'
 
     - run: echo "Pull Request ${number} (${sha})"
       env:
