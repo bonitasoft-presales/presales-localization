@@ -35,7 +35,7 @@ jobs:
       id: find-pull-request
       with:
         branch: 'main'
-        author: 'support+bot@crowdin.com'
+        author: 'github-actions'
 
     - run: echo "Pull Request ${number} (${sha})"
       env:
