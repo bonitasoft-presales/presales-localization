@@ -1,0 +1,1350 @@
+{
+    "Add comment": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Align text left": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Align text right": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "All processes": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "All profiles": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Application List": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Applications": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Apply": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Archived cases": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Available dynamic items": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Available tasks": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "BDM": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "BPM": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Bold": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Case ID": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Case ID (Asc)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Case ID (Desc)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Case ID (original)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Case id not provided. Unable to retrieve the case.": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Case list": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Cases": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Cases shown": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Center": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Clear formatting": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Close": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Comments": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Comments cannot be added to archived cases": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Date": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Date and time": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Decrease indent": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Default label": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Default name": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Description": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Display characters Count": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Display words Count": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Email": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Email preview": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "End date": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "End date (Newest first)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "End date (Oldest first)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Enter a date (mm/dd/yyyy)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Enter a time (h:mm:ss a)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Enter an id to see case details": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "General": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Groups": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Heading ": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Html content": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Id": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Increase indent": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Insert / edit link": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Insert image": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Insert video": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Install / Export": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Italic": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Justify text": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Language": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Last updated": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "License": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Link": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Load more cases": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "MM/dd/yyyy": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Mail Templates settings": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Mail Type": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Mail content": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Monitoring": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Name": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "No (more) comments to display": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "No application available using these filters": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "No archived cases to display": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "No case found with id:": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "No open cases to display": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Now": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Open cases": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Open in New Window": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Ordered List": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Organization": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Original case ID (Asc)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Original case ID (Desc)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Overview": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Paragraph": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Pending tasks": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Plain text content": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Please enter a URL to insert": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Please enter a youtube URL to embed": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Please enter an image URL to insert": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Preformatted text": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Preview": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Process name (Asc)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Process name (Desc)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Process name (version)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Process name or search keys": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Processes": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Profiles": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Quote/unquote selection or paragraph": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Redo": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Refresh list": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Relink": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Resources": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Roles": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Search keys": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Search on name, version or URL": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Select": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Select a language": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Select an option": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Send test email": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "Sign in": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Sign out": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Sort by": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Start date": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Start date (Newest first)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Start date (Oldest first)": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Started by": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Started by me": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "Started on": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "State": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Strikethrough": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Submit": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "System": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Tasks": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "The requested content cannot be loaded.<br />Please try again later.": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "This field is required": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "This field length should be larger": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "This field length should be smaller": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "This is not a valid email": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "This value is too large": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "This value is too small": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Title": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Today": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Toggle the text area to HTML source code / Rich text area": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Type new comment": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "Underline": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Undo": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Unlink": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Unordered List": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "Use ${dynamicItem} in template": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ],
+    "User details": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "User icon": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Username": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Users": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "Version : {{$item.version}}": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]"
+    ],
+    "View case details": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "aborted": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "all versions": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]"
+    ],
+    "blue": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "cancelled": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "completed": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "error": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "green": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "h:mm:ss a": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "no": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "red": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "started": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "suspended": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]"
+    ],
+    "yes": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/displayFormPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/demoEmailTemplate/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/approveFormPage/assets/json/localization.json [es-ES]"
+    ],
+    "{{selectedMailType.mailType}} mail template:": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
+    ]
+}
