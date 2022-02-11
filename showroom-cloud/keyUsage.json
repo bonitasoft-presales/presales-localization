@@ -91,6 +91,9 @@
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]"
     ],
+    "Bonita back office": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]"
+    ],
     "Case ID": [
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]",
@@ -547,6 +550,9 @@
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]"
     ],
+    "Mail Templates": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]"
+    ],
     "Mail Templates settings": [
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
@@ -836,9 +842,6 @@
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/UserCaseDetailsBonitaV1/assets/json/localization.json [fr-FR]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [fr-FR]"
-    ],
-    "Reset provided templates to factory settings": [
-        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/mailTemplateAdminPage/assets/json/localization.json [fr-FR]"
     ],
     "Resources": [
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/LayoutBonitaV7/assets/json/localization.json [es-ES]",
