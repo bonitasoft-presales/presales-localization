@@ -72,8 +72,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
     ],
     "+ New Request": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [fr-FR]"
     ],
@@ -114,16 +112,12 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
     ],
     "<b>Completion date</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [fr-FR]"
     ],
     "<b>Created by</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
@@ -132,8 +126,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementCompleteQuotation/assets/json/localization.json [fr-FR]"
     ],
     "<b>Creation date</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
@@ -144,8 +136,6 @@
     "<b>Description</b>": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/displayFormPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/providerDetailsEdit/assets/json/localization.json [es-ES]",
@@ -302,22 +292,16 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]"
     ],
     "<b>Select a request to view more details</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [fr-FR]"
     ],
     "<b>Selected supplier</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [fr-FR]"
     ],
     "<b>Status</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
@@ -326,8 +310,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementCompleteQuotation/assets/json/localization.json [fr-FR]"
     ],
     "<b>Summary</b>": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementReviewQuotations/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/formProcurementRequestCreation/assets/json/localization.json [es-ES]",
@@ -3364,6 +3346,7 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newDeadlineForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newDeadlineForm/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/displayFormPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/providerDetailsEdit/assets/json/localization.json [es-ES]",
@@ -4616,9 +4599,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
-    ],
-    "If you wish to copy the information from a previous invoice, you can search it in the field below by Invoice ID, supplier name or department. Remember to add the new date and attach the correct files.": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoicesInstanciationForm/assets/json/localization.json [es-ES]"
     ],
     "In Progress": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
@@ -6524,6 +6504,9 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
     ],
+    "My Tasks": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
+    ],
     "Name": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
@@ -6641,6 +6624,10 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
+    ],
+    "New Procurement Request": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]"
     ],
     "New Provider": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
@@ -7234,6 +7221,9 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
     ],
+    "Pending for quotations": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]"
+    ],
     "Phone": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
@@ -7573,6 +7563,12 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
+    ],
+    "Procurement Dashboard": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
+    ],
+    "Procurement Management": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "Procurement requests": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
@@ -8607,6 +8603,9 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
+    ],
+    "Select a request to view more details": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]"
     ],
     "Select a type": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
