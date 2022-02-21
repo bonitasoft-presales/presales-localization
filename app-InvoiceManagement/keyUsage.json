@@ -3346,6 +3346,7 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newDeadlineForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newDeadlineForm/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/displayFormPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/displayFormPage/assets/json/localization.json [fr-FR]",
@@ -6504,9 +6505,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
     ],
-    "My Tasks": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
-    ],
     "Name": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
@@ -6624,10 +6622,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
-    ],
-    "New Procurement Request": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]"
     ],
     "New Provider": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
@@ -7221,9 +7215,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
     ],
-    "Pending for quotations": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]"
-    ],
     "Phone": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
@@ -7563,12 +7554,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
-    ],
-    "Procurement Dashboard": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
-    ],
-    "Procurement Management": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "Procurement requests": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [es-ES]",
@@ -8603,9 +8588,6 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/InvoiceDetailPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]"
-    ],
-    "Select a request to view more details": [
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/mainPageProcurement/assets/json/localization.json [fr-FR]"
     ],
     "Select a type": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
