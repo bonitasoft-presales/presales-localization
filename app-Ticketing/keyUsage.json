@@ -63,9 +63,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
-    "Add File": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
-    ],
     "Add a comment": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
@@ -330,9 +327,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [fr-FR]"
     ],
-    "Bonita Username": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
-    ],
     "Cancel": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
@@ -362,9 +356,11 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "Category": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
     "Center": [
@@ -414,14 +410,12 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/teamManagerPageUpdate2/assets/json/localization.json [fr-FR]"
     ],
     "City": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
-    ],
-    "Clear": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
     "Clear formatting": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [es-ES]",
@@ -536,6 +530,7 @@
     "Create": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
     ],
     "Create New Customer": [
@@ -967,9 +962,11 @@
     "Email": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
     ],
     "Email preview": [
@@ -1098,9 +1095,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
-    "Filter Reporters": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
-    ],
     "Filter:": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
@@ -1110,9 +1104,11 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "First Name": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
     ],
     "Firstname": [
@@ -1628,9 +1624,11 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "Last Name": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
     ],
     "Level 1 Approval": [
@@ -1694,12 +1692,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/paDemoPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [fr-FR]"
-    ],
-    "List of Reporters": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
-    ],
-    "Location of Customer Support Tickets": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
     "Locations": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [es-ES]",
@@ -1858,6 +1850,7 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "New Ticket": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
@@ -2476,12 +2469,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [fr-FR]"
     ],
-    "Reporter": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
-    ],
-    "Reporter Documents": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
-    ],
     "Reporters": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [fr-FR]"
@@ -2560,9 +2547,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/analysisGeneralSupport/assets/json/localization.json [fr-FR]"
     ],
-    "Select  existing reporter": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
-    ],
     "Select a language": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [fr-FR]",
@@ -2638,9 +2622,11 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
     ],
     "Severity": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
     "Sign in": [
@@ -2664,6 +2650,7 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
     "Strikethrough": [
@@ -2765,9 +2752,6 @@
     "Suppliers": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
-    ],
-    "Support Case": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
     ],
     "Surname": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
@@ -3267,9 +3251,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
-    "Twitter Handler": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
-    ],
     "Type": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
@@ -3493,9 +3474,6 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
-    ],
-    "View": [
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterList/assets/json/localization.json [fr-FR]"
     ],
     "View Selected Provider": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
