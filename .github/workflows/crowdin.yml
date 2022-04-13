@@ -19,10 +19,12 @@ jobs:
       run: |
         git config user.email "actions@github.com"
         git config user.name "GitHub Actions"
-        git config --global --add safe.directory /github/workspace
+        git config --global --add safe.directory /home/runner/work/presales-localization/presales-localization
 
     - name: Display folrder informations
       run: |
+        ls -ltr /home/runner/work/presales-localization/presales-localization
+        chmod -R +w /home/runner/work/presales-localization/presales-localization
         ls -ltr /home/runner/work/presales-localization/presales-localization
 
     - name: Crowdin sync
