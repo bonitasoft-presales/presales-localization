@@ -20,6 +20,10 @@ jobs:
         git config user.email "actions@github.com"
         git config user.name "GitHub Actions"
         git config --global --add safe.directory /github/workspace
+   
+    - name: Check directory
+      run: |
+        ls -ltr /github/workspace
 
     - name: Crowdin sync
       uses: crowdin/github-action@1.4.7
