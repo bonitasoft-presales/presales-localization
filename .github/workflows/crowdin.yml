@@ -19,7 +19,6 @@ jobs:
       run: |
         git config user.email "actions@github.com"
         git config user.name "GitHub Actions"
-        git config --global --add safe.directory /home/runner/work/presales-localization/presales-localization
         git --version
 
     - name: Crowdin sync
@@ -36,7 +35,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
         CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-        GIT_CEILING_DIRECTORIES: '/github'
+        GIT_CEILING_DIRECTORIES: '/github/workspace'
 
     - name: Find Pull Request
       uses: juliangruber/find-pull-request-action@v1.5.0
