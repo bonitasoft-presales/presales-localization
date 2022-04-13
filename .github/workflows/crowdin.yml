@@ -15,6 +15,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
+    - name: Configure Git user
+      run: |
+        git config user.email "actions@github.com"
+        git config user.name "GitHub Actions"
+        git config --global --add safe.directory /github/workspace
+
     - name: Crowdin sync
       uses: crowdin/github-action@1.4.7
       with:
