@@ -11,10 +11,6 @@ jobs:
   Synchronize-with-crowdin:
     runs-on: ubuntu-latest
 
-# fix for GIT v2.35.1 used in actions
-# https://github.blog/2022-04-12-git-security-vulnerability-announced/
-# https://github.com/actions/checkout/issues/760
-
     - name: Configure Git user
       run: |
         git config user.email "actions@github.com"
