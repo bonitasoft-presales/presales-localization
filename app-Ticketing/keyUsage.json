@@ -1509,7 +1509,9 @@
     ],
     "Filter": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
     ],
     "Filter Cases": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reporterDetails/assets/json/localization.json [es-ES]",
@@ -1622,6 +1624,8 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/displayFormPage/assets/json/localization.json [fr-FR]"
     ],
     "High": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
@@ -2292,6 +2296,8 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
     ],
     "Low": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
@@ -2384,6 +2390,8 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
     ],
     "Medium": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/caseLocation/assets/json/localization.json [fr-FR]"
     ],
@@ -2762,6 +2770,10 @@
     "Overview": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
+    ],
+    "Page size": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
     ],
     "Paragraph": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
@@ -3396,6 +3408,10 @@
     "Save draft": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
+    ],
+    "Scheduling Onsite Visit": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
     ],
     "Search": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
