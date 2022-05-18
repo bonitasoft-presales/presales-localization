@@ -661,6 +661,10 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VerticalCSCLayoutV5/assets/json/localization.json [fr-FR]"
     ],
+    "Closed": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
+    ],
     "Closed Date": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
@@ -3389,6 +3393,10 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/resolutionAdvancedSupport/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/resolutionAdvancedSupport/assets/json/localization.json [fr-FR]"
     ],
+    "Resolved": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [fr-FR]"
+    ],
     "Resources": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
@@ -3408,6 +3416,9 @@
     "Save draft": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/BonitaHorizontalLayoutPresalesV7/assets/json/localization.json [fr-FR]"
+    ],
+    "Schedule Onsite Visit": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]"
     ],
     "Scheduling Onsite Visit": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]",
