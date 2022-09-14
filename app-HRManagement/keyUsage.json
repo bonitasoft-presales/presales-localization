@@ -11040,6 +11040,10 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [fr-FR]"
     ],
+    "Search by employee, manager, department, status, contract type or home office.": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRManagerPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRManagerPage/assets/json/localization.json [fr-FR]"
+    ],
     "Search on name, version or URL": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMreviewBenefits/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMreviewBenefits/assets/json/localization.json [fr-FR]",
@@ -11783,6 +11787,10 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRManagerPage/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [fr-FR]"
+    ],
+    "Sort by": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRManagerPage/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRManagerPage/assets/json/localization.json [fr-FR]"
     ],
     "Start date": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMreviewBenefits/assets/json/localization.json [es-ES]",
