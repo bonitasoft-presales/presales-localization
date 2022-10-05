@@ -3833,6 +3833,14 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/executeManualTask/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/executeManualTask/assets/json/localization.json [fr-FR]"
     ],
+    "Expired Invoices": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
+    ],
+    "Expiring Invoices": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
+    ],
     "Extranet Account": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/approveFormPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/approveFormPage/assets/json/localization.json [fr-FR]",
