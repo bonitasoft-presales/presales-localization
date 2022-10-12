@@ -878,12 +878,14 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/newProviderForm/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/itFormv12/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/itFormv12/assets/json/localization.json [fr-FR]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
-        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/e562dbeb-e569-49a3-b1c4-3c5ad412e396/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/e562dbeb-e569-49a3-b1c4-3c5ad412e396/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/executeManualTask/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/executeManualTask/assets/json/localization.json [fr-FR]"
+    ],
+    "Amount(\u20ac)": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
     ],
     "Analytic Account": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/approveFormPage/assets/json/localization.json [es-ES]",
@@ -2888,6 +2890,10 @@
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/e562dbeb-e569-49a3-b1c4-3c5ad412e396/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/executeManualTask/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/executeManualTask/assets/json/localization.json [fr-FR]"
+    ],
+    "Deadline": [
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
     ],
     "December": [
         "/home/runner/work/app-InvoiceManagement/app-InvoiceManagement/web_page/approveFormPage/assets/json/localization.json [es-ES]",
