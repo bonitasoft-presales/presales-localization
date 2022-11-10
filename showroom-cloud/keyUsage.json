@@ -1465,6 +1465,9 @@
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/teamManagerPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/teamManagerPage/assets/json/localization.json [fr-FR]"
     ],
+    "The datagen process have been succesfully created with the ID :": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/datagenManagement/assets/json/localization.json [es-ES]"
+    ],
     "The requested content cannot be loaded.<br />Please try again later.": [
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/datagenManagement/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/datagenManagement/assets/json/localization.json [fr-FR]",
@@ -1488,6 +1491,9 @@
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/BonitaPresalesHorizontalLayoutV9/assets/json/localization.json [fr-FR]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/teamManagerPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/teamManagerPage/assets/json/localization.json [fr-FR]"
+    ],
+    "There has been an error launching the datagen process with the following message:": [
+        "/home/runner/work/showroom-cloud/showroom-cloud/web_page/datagenManagement/assets/json/localization.json [es-ES]"
     ],
     "This field is required": [
         "/home/runner/work/showroom-cloud/showroom-cloud/web_page/datagenManagement/assets/json/localization.json [es-ES]",
