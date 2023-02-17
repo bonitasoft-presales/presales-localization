@@ -999,6 +999,13 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "Accept": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]"
+    ],
+    "Accept Workspace Allocation": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMsetUpTelecomServices/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidateLocation/assets/json/localization.json [es-ES]"
+    ],
     "Accounting": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
@@ -1048,6 +1055,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRreviewVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
+    ],
+    "Add document": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMregisterNewEmployee/assets/json/localization.json [es-ES]"
     ],
     "Align text left": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]",
@@ -1590,6 +1600,10 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRreviewVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
+    ],
+    "Assigned workspace": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMsetUpTelecomServices/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidateLocation/assets/json/localization.json [es-ES]"
     ],
     "Audit Specialist": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
@@ -2715,6 +2729,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "Comments from manager": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMassignWorkspace/assets/json/localization.json [es-ES]"
+    ],
     "Comments from requestor": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
@@ -2724,7 +2741,6 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRReviewCancellation/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [fr-FR]",
-        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMassignWorkspace/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMassignWorkspace/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/OrganizationPage/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/OrganizationPage/assets/json/localization.json [fr-FR]",
@@ -2864,6 +2880,19 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRreviewVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
+    ],
+    "Confirm Refusal": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidatePackage/assets/json/localization.json [es-ES]"
+    ],
+    "Confirm Renegotiation": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMsetUpTelecomServices/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidateLocation/assets/json/localization.json [es-ES]"
+    ],
+    "Confirm SW Provisioning": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionSoftware/assets/json/localization.json [es-ES]"
+    ],
+    "Confirm User Accounts": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMconfigureEmployeeAccount/assets/json/localization.json [es-ES]"
     ],
     "Contract Document Input": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
@@ -4011,6 +4040,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "Document N\u00b0": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMregisterNewEmployee/assets/json/localization.json [es-ES]"
+    ],
     "Documentation": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
@@ -4796,6 +4828,9 @@
     "Executed by": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/pageCaseOverview/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/pageCaseOverview/assets/json/localization.json [fr-FR]"
+    ],
+    "Feel free to add all documents related to the new employee. At least 3 documents are required (CV, Contract, and ID).": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMregisterNewEmployee/assets/json/localization.json [es-ES]"
     ],
     "Female": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
@@ -6023,6 +6058,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "In case of rejecting the package, please add a reason for refusal": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidatePackage/assets/json/localization.json [es-ES]"
+    ],
     "Increase indent": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [fr-FR]",
@@ -6586,6 +6624,7 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
     "Item": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionHardware/assets/json/localization.json [es-ES]",
@@ -7002,6 +7041,7 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
     "License Key": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionHardware/assets/json/localization.json [es-ES]",
@@ -9879,6 +9919,16 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "Please provision the following items by adding the corresponding asset id to each one.": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionHardware/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionSoftware/assets/json/localization.json [es-ES]"
+    ],
+    "Please provision the following items by adding the corresponding license key to each one.": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionHardware/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMpreparePayroll/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMrequisitionSoftware/assets/json/localization.json [es-ES]"
+    ],
     "Please provision the following. Select row and add Asset ID": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
@@ -10425,6 +10475,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "Reject": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]"
+    ],
     "Relink": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/ressourceReviewForm/assets/json/localization.json [fr-FR]",
@@ -10486,6 +10539,10 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRreviewVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
+    ],
+    "Renegotiate Workspace Allocation": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMsetUpTelecomServices/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidateLocation/assets/json/localization.json [es-ES]"
     ],
     "Request id": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
@@ -11964,6 +12021,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRreviewVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
+    ],
+    "Submit Workspace Allocation": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMassignWorkspace/assets/json/localization.json [es-ES]"
     ],
     "Submit button will become active once all required fields are filled in. Please go through each tab to ensure required fields (marked with *) have a value.": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
@@ -13811,6 +13871,10 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
     ],
+    "Workspace": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMsetUpTelecomServices/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMvalidateLocation/assets/json/localization.json [es-ES]"
+    ],
     "Workspace location request": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [fr-FR]",
@@ -13860,6 +13924,9 @@
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRreviewVacationRequest/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRnewVacationRequest/assets/json/localization.json [fr-FR]"
+    ],
+    "You are still required to add more documents": [
+        "/home/runner/work/app-HRManagement/app-HRManagement/web_page/HRMregisterNewEmployee/assets/json/localization.json [es-ES]"
     ],
     "You have <b>{{properties.value}}</b> days available": [
         "/home/runner/work/app-HRManagement/app-HRManagement/web_page/VRcancellableVacationRequest/assets/json/localization.json [es-ES]",
