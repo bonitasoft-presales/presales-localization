@@ -1,4 +1,7 @@
 {
+    ". Please wait a couple of minutes before reloading this page": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]"
+    ],
     "Accept": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAallocateToAgent/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAallocateToAgent/assets/json/localization.json [fr-FR]",
@@ -9291,6 +9294,9 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageValidation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageValidation/assets/json/localization.json [fr-FR]"
     ],
+    "Read Emails": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]"
+    ],
     "Redo": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reviewEmails/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reviewEmails/assets/json/localization.json [fr-FR]",
@@ -11033,6 +11039,9 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
     ],
+    "The read email process have been succesfully created with the ID : ": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]"
+    ],
     "The requested content cannot be loaded.<br />Please try again later.": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reviewEmails/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reviewEmails/assets/json/localization.json [fr-FR]",
@@ -11222,6 +11231,9 @@
     "There are 0 open invoices. Use the button to create a new invoice.": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
+    ],
+    "There has been an error launching the read email process with the following message: ": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/mainTicketing/assets/json/localization.json [es-ES]"
     ],
     "This field is required": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/reviewEmails/assets/json/localization.json [es-ES]",
