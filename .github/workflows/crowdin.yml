@@ -13,10 +13,10 @@ jobs:
     steps:
      
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Crowdin sync
-      uses: crowdin/github-action@v1.7.1
+      uses: crowdin/github-action@v1.10.0
       with:
         upload_sources: true
         upload_translations: true
