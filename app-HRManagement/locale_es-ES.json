@@ -2,8 +2,8 @@
     "$locale": {
         "DATETIME_FORMATS": {
             "AMPMS": [
-                "AM",
-                "PM"
+                "a. m.",
+                "p. m."
             ],
             "DAY": [
                 "domingo",
@@ -52,14 +52,14 @@
                 "nov.",
                 "dic."
             ],
-            "fullDate": "EEEE d MMMM y",
-            "longDate": "d MMMM y",
-            "medium": "d MMM y HH:mm:ss",
-            "mediumDate": "d MMM y",
-            "mediumTime": "HH:mm:ss",
-            "short": "dd/MM/y HH:mm",
-            "shortDate": "dd/MM/y",
-            "shortTime": "HH:mm"
+            "fullDate": "EEEE, d 'de' MMMM 'de' y",
+            "longDate": "d 'de' MMMM 'de' y",
+            "medium": "d 'de' MMM 'de' y H:mm:ss",
+            "mediumDate": "d 'de' MMM 'de' y",
+            "mediumTime": "H:mm:ss",
+            "short": "d/M/yy H:mm",
+            "shortDate": "d/M/yy",
+            "shortTime": "H:mm"
         }
     }
 }
