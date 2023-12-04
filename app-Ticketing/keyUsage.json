@@ -1835,6 +1835,8 @@
     "Country": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VApayBill/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VApayBill/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAcustomerHome/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAcustomerHome/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAreviewOnBoarding/assets/json/localization.json [es-ES]",
@@ -6667,6 +6669,8 @@
     "Location": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VApayBill/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VApayBill/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageOverview/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageOverview/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageInstanciation/assets/json/localization.json [es-ES]",
@@ -9917,6 +9921,12 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageValidation/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageValidation/assets/json/localization.json [fr-FR]"
     ],
+    "Results": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageInstanciation/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAdamageInstanciation/assets/json/localization.json [fr-FR]"
+    ],
     "Roles": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAbonitaLayoutV10/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VAbonitaLayoutV10/assets/json/localization.json [fr-FR]",
@@ -10170,6 +10180,10 @@
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/miseAjourDemandeForm/assets/json/localization.json [fr-FR]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/UserCaseListBonitaV3/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/UserCaseListBonitaV3/assets/json/localization.json [fr-FR]"
+    ],
+    "Select Location": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
     ],
     "Select a Category": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/scheduleOnsite/assets/json/localization.json [es-ES]",
@@ -13892,6 +13906,10 @@
     "Use a <b>Fragment</b> for Employee data.": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/invoiceMain/assets/json/localization.json [es-ES]",
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/invoiceMain/assets/json/localization.json [fr-FR]"
+    ],
+    "Use this location": [
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [es-ES]",
+        "/home/runner/work/app-Ticketing/app-Ticketing/web_page/newTicketViaWeb/assets/json/localization.json [fr-FR]"
     ],
     "User": [
         "/home/runner/work/app-Ticketing/app-Ticketing/web_page/VApayBill/assets/json/localization.json [es-ES]",
